@@ -1,0 +1,21 @@
+Intelligence threat detection with honeypot
+
+Basic Idea:
+
+	Creating a honeypot system which integrates with Blue Wireless, Twillio, Google Cloud and CockroachDB:
+
+	S-1: Setup a honeypot system on a virtual machine in google cloud and configure it to mimic a production system and attract potential attackers.
+
+	S-2: Connect the honeypot system with Blue Wireless device namely ESP Node 8266.To ensure reliable and secure connectivity. Connect the device to the system using USB or ethernet cable or connecting it wirelessly using WiFi. Enable security features on a blues wireless device such as firewall and encrypted connection.
+
+	S-3: Setup a monitoring tools to track any suspicious activity on honeypot system.
+
+	S-4: Setup Twillio account and obtain Twillio phone number and API creds. 
+
+	S-5: Integrate the honeypot system using the Twillio API's and send notifications and alerts to the security teams in case of suspicious activities. We use Twillio to send SMS or email to designated inbox. 
+
+	
+
+	S-6: Setup CockroachDB and connect it with Honeypot system using SQL DB to store all the logs created during the intrusion.
+
+	S-7: Test the system if its functioning well and integrations are working correctly- if true then deploy the system.
