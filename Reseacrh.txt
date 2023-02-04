@@ -1,0 +1,7 @@
+We are excited to present ThreatThisFall, a comprehensive and innovative threat intelligence detection system that has the potential to revolutionize the way organizations approach cybersecurity. ThreatThisFall integrates with industry-leading technologies, such as Blue Wireless, Twilio, and StoryBlok, to provide real-time detection of cyber attacks.
+
+Our system employs the use of honeypots, both internal and external, to lure in and detect potential attackers. The ESP Node 32 serves as an internal honeypot, while the virtual machine honeypot provides an added layer of defense. When a threat is detected, the system's owner will be immediately notified through SMS or WhatsApp message, allowing them to take proactive measures to prevent further damage.
+
+ThreatThisFall is designed to seamlessly integrate with existing infrastructure, providing a comprehensive solution for detecting and responding to cyber threats. Our goal is to provide real-time threat intelligence, enabling organizations to stay ahead of potential attackers.
+
+We believe that ThreatThisFall has the potential to greatly impact the cybersecurity industry and would be honored to have the opportunity to demonstrate its capabilities in this live hackathon. Thank you for considering our project.
