@@ -1,0 +1,3 @@
+When a hacker attacks the system, the first point of contact will be the honeypot. 
+
+This will trigger an alert that informs the system's owner via SMS or WhatsApp message, providing them with valuable information about the attack and allowing them to take proactive measures to prevent further damage.
